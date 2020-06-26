@@ -13,12 +13,12 @@ linux需要自己编译， makefile文件在cmake-build-debug文件下
 
 运行画面：
 
-![](F:\git\gitdir\picture\1.JPG)
+![1](https://github.com/scri/snake/1.JPG)
 
 ————————
 
-![](F:\git\gitdir\picture\2.JPG)
+![2](https://github.com/scri/snake/2.JPG)
 
 ——————
 
-![](F:\git\gitdir\picture\3.JPG)
+![3](https://github.com/scri/snake/3.JPG)
