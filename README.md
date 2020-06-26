@@ -13,12 +13,12 @@ linux需要自己编译， makefile文件在cmake-build-debug文件下
 
 运行画面：
 
-![1](https://github.com/scri/snake/1.JPG)
+![1](https://github.com/scri/snake/blob/master/1.JPG)
 
 ————————
 
-![2](https://github.com/scri/snake/2.JPG)
+![2](https://github.com/scri/snake/blob/master/2.JPG)
 
 ——————
 
-![3](https://github.com/scri/snake/3.JPG)
+![3](https://github.com/scri/snake/blob/master/3.JPG)
